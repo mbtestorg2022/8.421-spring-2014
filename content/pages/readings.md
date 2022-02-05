@@ -59,12 +59,111 @@ Cohen-Tannoudji, Claude, Jaques Dupont-Roc, and Gilbert Grynberg. _Atom-Photon-I
 {{< anchor "Reading_Assignments" >}}{{< /anchor >}}Reading Assignments
 ----------------------------------------------------------------------
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1-5 | Resonance | No Readings |
-| 5-9 | Atoms | Kleppner, Daniel. "[The Yin and Yang of Hydrogen](http://dx.doi.org/10.1063/1.882619)." _Physics Today_ 52, no. 4 (1999). |
-| 9-12 | Atoms in external fields | No Readings |
-| 12-17 | Atom-light interactions | Einstein, A. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[On The Quantum Theory of Radiation." (PDF)](http://web.ihep.su/dbserv/compas/src/einstein17/eng.pdf) _Physikalische Zeitschrift_ 18 (1917).  {{< br >}}  {{< br >}}Kleppner, Daniel. "[Rereading Einstein on Radiarion](http://dx.doi.org/10.1063/1.1897520 )." _Physics Today_ 58, no. 2 (2005): 30–3. |
-| 17-20 | Line broadening | Ramsey, Norman F. "[The Method of Successive Oscillatory Fields](http://dx.doi.org/10.1063/PT.3.1857)." _Physics Today_ 66, no. 1 (2013): 36. |
-| 20-21 | Two-photon excitation | No Readings |
-| 21-25 | Coherence | Lounis, B., and Cohen-Tannoudji, C. "[Coherent Population Trapping and Fano Profiles](http://dx.doi.org/10.1051/jp2:1992153)." _Journal De Physique II France_ 2, no. 4 (1992): 579–92.  {{< br >}}  {{< br >}}Dicke, R. H. "[Coherence in Spontaneous Radiation Processes](http://dx.doi.org/10.1103/PhysRev.93.99)." _Physical Review_ 93, no. 1 (1954) :99–110.  {{< br >}}  {{< br >}}Inouye, S., A. P, Chikkatur, et al. "[Superradiant Rayleigh Scattering from a Bose-Einstein Condensate](http://dx.doi.org/10.1126/science.285.5427.571)." _Science_ 285, no. 5427 (1999): 571–4.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-5
+{{< tdclose >}}
+{{< tdopen >}}
+Resonance
+{{< tdclose >}}
+{{< tdopen >}}
+No Readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-9
+{{< tdclose >}}
+{{< tdopen >}}
+Atoms
+{{< tdclose >}}
+{{< tdopen >}}
+Kleppner, Daniel. "[The Yin and Yang of Hydrogen](http://dx.doi.org/10.1063/1.882619)." _Physics Today_ 52, no. 4 (1999).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-12
+{{< tdclose >}}
+{{< tdopen >}}
+Atoms in external fields
+{{< tdclose >}}
+{{< tdopen >}}
+No Readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-17
+{{< tdclose >}}
+{{< tdopen >}}
+Atom-light interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Einstein, A. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[On The Quantum Theory of Radiation." (PDF)](http://web.ihep.su/dbserv/compas/src/einstein17/eng.pdf) _Physikalische Zeitschrift_ 18 (1917).  
+  
+Kleppner, Daniel. "[Rereading Einstein on Radiarion](http://dx.doi.org/10.1063/1.1897520 )." _Physics Today_ 58, no. 2 (2005): 30–3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-20
+{{< tdclose >}}
+{{< tdopen >}}
+Line broadening
+{{< tdclose >}}
+{{< tdopen >}}
+Ramsey, Norman F. "[The Method of Successive Oscillatory Fields](http://dx.doi.org/10.1063/PT.3.1857)." _Physics Today_ 66, no. 1 (2013): 36.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+Two-photon excitation
+{{< tdclose >}}
+{{< tdopen >}}
+No Readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-25
+{{< tdclose >}}
+{{< tdopen >}}
+Coherence
+{{< tdclose >}}
+{{< tdopen >}}
+Lounis, B., and Cohen-Tannoudji, C. "[Coherent Population Trapping and Fano Profiles](http://dx.doi.org/10.1051/jp2:1992153)." _Journal De Physique II France_ 2, no. 4 (1992): 579–92.  
+  
+Dicke, R. H. "[Coherence in Spontaneous Radiation Processes](http://dx.doi.org/10.1103/PhysRev.93.99)." _Physical Review_ 93, no. 1 (1954) :99–110.  
+  
+Inouye, S., A. P, Chikkatur, et al. "[Superradiant Rayleigh Scattering from a Bose-Einstein Condensate](http://dx.doi.org/10.1126/science.285.5427.571)." _Science_ 285, no. 5427 (1999): 571–4.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
