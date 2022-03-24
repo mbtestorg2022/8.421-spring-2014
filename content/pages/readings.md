@@ -119,7 +119,7 @@ No Readings
 Atom-light interactions
 {{< tdclose >}}
 {{< tdopen >}}
-Einstein, A. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[On The Quantum Theory of Radiation." (PDF)](http://web.ihep.su/dbserv/compas/src/einstein17/eng.pdf) _Physikalische Zeitschrift_ 18 (1917).  
+Einstein, A. "[On The Quantum Theory of Radiation." (PDF)](http://web.ihep.su/dbserv/compas/src/einstein17/eng.pdf) _Physikalische Zeitschrift_ 18 (1917).  
   
 Kleppner, Daniel. "[Rereading Einstein on Radiarion](http://dx.doi.org/10.1063/1.1897520 )." _Physics Today_ 58, no. 2 (2005): 30–3.
 {{< tdclose >}}
