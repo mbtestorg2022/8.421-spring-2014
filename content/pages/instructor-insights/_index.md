@@ -21,7 +21,7 @@ The purpose of this two-semester subject sequence is to introduce graduate stude
 
 ### Possibilities for Further Study/Careers
 
-Cold atoms are often used to address problems of condensed matter physics, so many students who take this subject sequence go on to take [_8.511 Theory of Solids I_](/courses/8-511-theory-of-solids-i-fall-2004/) and [_8.512 Theory of Solids II_](/courses/8-512-theory-of-solids-ii-spring-2009/). Some students take a course, taught by Eugene Demler at Harvard, called [_Special Topics in Condensed Matter Physics_ (PDF)](http://cmt.harvard.edu/demler/TEACHING/p268r_2012.pdf). Others go on to take courses in quantum computation.
+Cold atoms are often used to address problems of condensed matter physics, so many students who take this subject sequence go on to take [_8.511 Theory of Solids I_](/courses/8-511-theory-of-solids-i-fall-2004) and [_8.512 Theory of Solids II_](/courses/8-512-theory-of-solids-ii-spring-2009). Some students take a course, taught by Eugene Demler at Harvard, called [_Special Topics in Condensed Matter Physics_ (PDF)](http://cmt.harvard.edu/demler/TEACHING/p268r_2012.pdf). Others go on to take courses in quantum computation.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -45,7 +45,7 @@ Curriculum Information
 
 ### Prerequisite
 
-[_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/)
+[_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013)
 
 ### Requirements Satisfied
 
@@ -53,7 +53,7 @@ This course may be applied toward a doctoral degree in physics with the approval
 
 ### Offered
 
-Atomic physics is taught every spring semester, alternating between _8.421 Atomic and Optical Physics I_ and [_8.422 Atomic and Optical Physics II_](/courses/8-422-atomic-and-optical-physics-ii-spring-2013/). Depending on when they matriculate, students begin with either 8.421 or 8.422. It is somewhat more logical to go from fundamental concepts to more advanced topics, but the reverse sequence also works well.
+Atomic physics is taught every spring semester, alternating between _8.421 Atomic and Optical Physics I_ and [_8.422 Atomic and Optical Physics II_](/courses/8-422-atomic-and-optical-physics-ii-spring-2013). Depending on when they matriculate, students begin with either 8.421 or 8.422. It is somewhat more logical to go from fundamental concepts to more advanced topics, but the reverse sequence also works well.
 
 {{< anchor "classroom" >}}{{< /anchor >}}
 
